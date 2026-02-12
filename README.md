@@ -2,7 +2,7 @@
 
 This repository supports data sharing and collaboration across Frontline project work packages, with a specific focus on using **Global Fishing Watch (GFW)** data for analysis workflows.
 
-It provides practical examples and reusable code for:
+It provides practical examples and reusable Python/R code for:
 
 * Accessing and fetching GFW datasets using APIs
 * Pre-processing and cleaning fishing activity/cargo's data
