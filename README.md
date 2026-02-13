@@ -15,20 +15,6 @@ The aim is to streamline data handling, ensure reproducibility, and enable consi
 ## Repository Structure
 
 ```
-├── examples/
-│   ├── Jupyter notebooks
-│   ├── RMarkdown files
-│   └── HTML files
-│   
-│   Examples demonstrating how to fetch, process, and prepare GFW data
-│   for analysis using Python and R.
-│
-├── src/
-│   Source code and reusable modules developed for this repository
-│   (e.g. data access, processing utilities, helper functions)
-```
-
-projectname-example-datasets/
 ├── README.md
 ├── examples/
 │   ├── jupyter notebooks
@@ -43,4 +29,4 @@ projectname-example-datasets/
 │   └── eez.geojson
 │   └── Celtic Sea.geojson
 └── LICENSE
-
+```
