@@ -27,3 +27,20 @@ The aim is to streamline data handling, ensure reproducibility, and enable consi
 │   Source code and reusable modules developed for this repository
 │   (e.g. data access, processing utilities, helper functions)
 ```
+
+projectname-example-datasets/
+├── README.md
+├── examples/
+│   ├── jupyter notebooks
+│   ├── RMarkdown files
+│   └── HTML files
+├── windfarms/
+│   ├── windfarms.geojson
+│   ├── offshore_sites.shp
+├── ports/
+│   └── ports.geojson
+├── boundaries/
+│   └── eez.geojson
+│   └── Celtic Sea.geojson
+└── LICENSE
+
