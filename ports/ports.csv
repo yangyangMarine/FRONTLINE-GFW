@@ -1,0 +1,149 @@
+Port,Latitude,Longitude,Nation
+Brixham,50.226,-3.586,UK
+Fleetwood,53.923,-3.014,UK
+Humberside (Grimsby),53.564,-0.075,UK
+Humberside (Hull),53.743,-0.332,UK
+Lowestoft,52.482,1.754,UK
+Newlyn,50.102,-5.536,UK
+North Shields,55.008,-1.439,UK
+Padstow,50.533,-4.915,UK
+Plymouth,50.375,-4.142,UK
+Scarborough,54.279,-0.405,UK
+Shoreham,50.835,-0.248,UK
+Whitby,54.487,-0.614,UK
+Whitehaven,54.555,-3.588,UK
+Holyhead,53.31,-4.63,UK
+Milford Haven,51.729,-5.065,UK
+Aberdeen,57.149,-2.094,UK
+Buckie,57.692,-2.981,UK
+Campbeltown,55.425,-5.607,UK
+Cullivoe,60.6986,-0.9948,UK
+Eyemouth,55.941,-2.102,UK
+Fraserburgh,57.693,-2,UK
+Kinlochbervie,58.63,-5.032,UK
+Kirkwall,58.984,-2.957,UK
+Lerwick,60.155,-1.145,UK
+Lochinver,58.113,-5.302,UK
+Mallaig,56.689,-5.705,UK
+Oban,56.415,-5.47,UK
+Peterhead,57.507,-1.78,UK
+Pittenweem,56.242,-2.714,UK
+Portree,57.487,-5.585,UK
+Scalloway,60.139,-1.299,UK
+Scrabster,58.595,-3.542,UK
+Stornoway,58.209,-6.387,UK
+Troon,55.533,-4.637,UK
+Ullapool,57.897,-5.169,UK
+Ardglass,54.506,-5.928,UK
+Ballycastle,55.209,-6.258,UK
+Bangor,54.659,-5.669,UK
+Kilkeel,54.135,-5.607,UK
+Lisahally,54.991,-7.307,UK
+Portavogie,54.553,-5.413,UK
+An Daingean (Dingle),52.14,-10.27,Ireland
+Ballycotton,51.827,-7.978,Ireland
+Baltimore,51.483,-9.368,Ireland
+Castletownbere,51.649,-9.907,Ireland
+Clogherhead,53.794,-6.237,Ireland
+Cobh,51.85,-8.296,Ireland
+Dunmore East,52.148,-6.994,Ireland
+Fenit,52.269,-9.872,Ireland
+Galway,53.271,-9.056,Ireland
+Greencastle (Donegal),55.204,-6.993,Ireland
+Howth,53.386,-6.065,Ireland
+Killybegs,54.633,-8.448,Ireland
+Kilmore Quay,52.174,-6.588,Ireland
+Kinsale,51.708,-8.523,Ireland
+Port of Cork,51.85,-8.296,Ireland
+Renard,51.767,-10.035,Ireland
+Ros a Mhil (Rosaveal),53.307,-9.557,Ireland
+Rosslare,52.252,-6.338,Ireland
+Schull,51.524,-9.541,Ireland
+Union Hall,51.457,-9.372,Ireland
+Abbeville,50.105,1.835,France
+Ajaccio,41.919,8.738,France
+Arcachon,44.661,-1.173,France
+Bassens (Gironde),44.9,-0.52,France
+Bayonne,43.493,-1.474,France
+Belfort,47.637,6.862,France
+Bonifacio,41.387,9.159,France
+Bordeaux,44.837,-0.579,France
+Boulogne-sur-Mer,50.725,1.613,France
+Bourges,47.081,2.398,France
+Brest,48.39,-4.486,France
+Caen,49.182,-0.37,France
+Calais,50.951,1.858,France
+Calvi,42.567,8.757,France
+Camaret-sur-Mer,48.274,-4.596,France
+Cancale,48.677,-1.854,France
+Cannes,43.552,7.017,France
+Commercy,48.762,5.59,France
+Concarneau,47.873,-3.918,France
+Conflandey,47.618,5.673,France
+Deauville,49.36,0.07,France
+Donges,47.318,-2.072,France
+Douvaine,46.305,6.305,France
+Dunkerque,51.034,2.377,France
+Fecamp,49.758,0.375,France
+Fismes,49.308,3.683,France
+Fos-sur-Mer,43.437,4.944,France
+Gennevilliers,48.933,2.302,France
+Granville,48.836,-1.6,France
+Gravelines,50.987,2.128,France
+Guimerville,49.814,1.736,France
+Ham,49.747,3.074,France
+Honfleur,49.419,0.233,France
+Izon,44.92,-0.372,France
+Langres,47.865,5.333,France
+La Pallice,46.162,-1.225,France
+La Rochelle-Pallice,46.162,-1.225,France
+Lavera,43.387,5.022,France
+Le Château-d’Oléron,45.887,-1.196,France
+Le Guildo,48.549,-2.26,France
+Le Havre,49.494,0.107,France
+Les Sables-d’Olonne,46.496,-1.784,France
+Le Tréport,50.059,1.375,France
+Le Verdon,45.545,-1.062,France
+Libourne,44.914,-0.242,France
+L’Île-Rousse,42.638,8.938,France
+Liomer,49.872,1.803,France
+Loctudy,47.833,-4.172,France
+Lyon,45.764,4.835,France
+Marans,46.31,-0.992,France
+Marmande,44.503,0.164,France
+Marseille,43.296,5.369,France
+Mercurey,46.845,4.745,France
+Merpins,45.685,-0.411,France
+Montoir-de-Bretagne,47.318,-2.148,France
+Morlaix,48.577,-3.833,France
+Morteau,47.058,6.607,France
+Mulhouse Nord,47.75,7.335,France
+Ouistreham,49.276,-0.259,France
+Paimboeuf,47.286,-2.031,France
+Paimpol,48.778,-3.044,France
+Paris,48.857,2.352,France
+Persan,49.15,2.27,France
+Plailly,49.11,2.578,France
+Port-de-Bouc,43.407,4.98,France
+Port-La-Nouvelle,43.019,3.046,France
+Porto-Vecchio,41.592,9.28,France
+Port-Vendres,42.518,3.107,France
+Propriano,41.676,8.904,France
+Quiberon,47.484,-3.121,France
+Roscoff-Bloscon,48.726,-3.987,France
+Roubaix,50.692,3.174,France
+Rouen,49.443,1.099,France
+Saint-Brieuc,48.514,-2.768,France
+Sete,43.401,3.698,France
+Strasbourg,48.573,7.752,France
+St-Valery-en-Caux,49.867,0.714,France
+St-Valery-sur-Somme,50.187,1.636,France
+Talence,44.808,-0.595,France
+Toul,48.678,5.894,France
+Toulouse,43.604,1.444,France
+Treguier,48.787,-3.229,France
+Ury,48.344,2.597,France
+Vannes,47.659,-2.76,France
+Verberie,49.312,2.729,France
+Versailles,48.805,2.136,France
+Yenne,45.704,5.757,France
